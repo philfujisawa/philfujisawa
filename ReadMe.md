@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Philippe Fujisawa
 
-- 🎯 **Quality Assurance** transitioning from **13+ years of Japanese Automotive QA** to **Software QA Testing**.  
+- 🎯 **Quality Assurance Professional** transitioning from **13+ years of Japanese Automotive QA** to **Software QA Testing**.  
 - 🛠️ Skilled in **Test Automation**, **Manual Testing**, and **Agile Methodologies**.  
 - 🚀 Proficient in tools like **Cypress**, **Appium**, **Postman**, and **GitHub Actions**.  
 - 🎓 **Certified in Quality Assurance** with ongoing studies in **Software Engineering**.
