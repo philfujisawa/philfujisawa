@@ -14,7 +14,7 @@ Testing:<br>
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#) 
 [![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?logo=robot-framework&logoColor=white)](#) 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) 
-[![Appium](https://img.shields.io/badge/Appium-6F3FB3?logo=appium&logoColor=white)](#
+[![Appium](https://img.shields.io/badge/Appium-6F3FB3?logo=appium&logoColor=white)](#)
 [![Capybara](https://img.shields.io/badge/Capybara-563D7C?logo=ruby&logoColor=white)](#)<br> 
 Languages:<br> 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
