@@ -15,6 +15,7 @@ Testing:<br>
 [![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?logo=robot-framework&logoColor=white)](#) 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) 
 [![Appium](https://img.shields.io/badge/Appium-6F3FB3?logo=appium&logoColor=white)](#)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](#)
 [![Capybara](https://img.shields.io/badge/Capybara-563D7C?logo=ruby&logoColor=white)](#)<br> 
 Languages:<br> 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
@@ -34,7 +35,8 @@ DB:<br>
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) <br>
 Versioning & CI/CD:<br> 
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) 
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) <br>
 
 ## 📊 GitHub Stats:
