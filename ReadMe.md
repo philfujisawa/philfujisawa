@@ -11,8 +11,10 @@
 
 ## 💻 Tech Stack:
 Testing:<br> 
-[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#) 
-[![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?logo=robot-framework&logoColor=white)](#) 
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](#)
+[![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?logo=robot-framework&logoColor=white)](#)
+[![Rest Assured](https://img.shields.io/badge/Rest%20Assured-3B2F63?logo=java&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) 
 [![Appium](https://img.shields.io/badge/Appium-6F3FB3?logo=appium&logoColor=white)](#)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](#)
